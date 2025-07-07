@@ -1,0 +1,46 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Travel Agency Page</title>
+    <meta name="description" content="This is a n experimental description for this test">
+  </head>
+  <body>
+    <h1>Italy Destinations</h1>
+    <p>Your way to eat pasta gonna chenge!</p>
+    <h2>Packages</h2>
+    <p>Here are some places to you eat pasta in Italy</p>
+    <ul>
+      <li>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a>
+      </li>
+      <li>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a>
+      </li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src=https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg alt="you are looking to coleseum">
+      </a>
+      <figcaption>Coleseum view</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="view of mountains">
+      </a>
+      <figcaption>Moutains View</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Sea viwe">
+      </a>
+      <figcaption>View for the ocean</figcaption>
+    </figure>
+  </body>
+</html>
+
+** end of index.html **
+
